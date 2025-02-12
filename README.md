@@ -123,7 +123,7 @@ This project is licensed under the MIT License.
 
 ## How to Switch README Languages
 
-This README includes both English and Chinese sections. You can simply scroll down to view the version you need. Alternatively, you may create separate files (e.g., `README.en.md` and `README.zh.md`) if preferred.
+This README includes both English and Chinese sections. You can simply scroll down to view the version you need. 
 
 ---
 
