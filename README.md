@@ -24,7 +24,7 @@ Image-Text Annotation Editor is a GUI application built with Python and PyQt5 fo
 - **Language Switching:** Toggle between English and Chinese interfaces.
 - **Additional Options:** Set an image prefix to recover image paths, define custom image fields, etc.
 <div align="center">
-  <img src="image\feature.png" alt="Project Icon" width="500" height="200">
+  <img src="image\feature.png" alt="Project Feature" width="800" height="400">
 </div>
 ### Features
 - **Load JSON Annotations:** Easily open and browse JSON files containing annotations.
