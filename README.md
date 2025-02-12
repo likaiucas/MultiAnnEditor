@@ -127,4 +127,3 @@ This README includes both English and Chinese sections. You can simply scroll do
 
 ---
 
-Happy coding! / 编程愉快！
