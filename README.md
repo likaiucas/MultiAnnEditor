@@ -98,7 +98,7 @@ This project is licensed under the MIT License.
     ```
 3. **克隆仓库：**
     ```bash
-    git clone https://github.com/yourusername/annotation-editor.git
+    git clone https://github.com/likaiucas/MultiAnnEditor.git
     cd annotation-editor
     ```
 4. **运行软件：**
