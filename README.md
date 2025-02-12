@@ -4,6 +4,11 @@
 
 # MultiAnnEditor
 多模态数据标签可视化， Multimodal annotation viewer/editor. Specialized for LLaMA-Factory. 
+# News
+'''
+2025/2/12 MultiAnnEditor Supports _.exe_ for windows at
+'''
+
 # Image-Text Annotation Editor / 图片-文本标注编辑器
 
 
