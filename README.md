@@ -6,7 +6,7 @@
 多模态数据标签可视化， Multimodal annotation viewer/editor. Specialized for LLaMA-Factory. 
 # News
 
-2025/2/12 MultiAnnEditor Supports [_.exe_](https://github.com/likaiucas/MultiAnnEditor/blob/master/dist/annotation_editor.exe) for windows and . 
+2025/2/12 MultiAnnEditor Supports [_.exe_](https://github.com/likaiucas/MultiAnnEditor/blob/master/dist/annotation_editor.exe) for windows and [_.pkg_](https://github.com/likaiucas/MultiAnnEditor/blob/master/build/annotation_editor/annotation_editor.pkg) for mac. 
 
 
 # Image-Text Annotation Editor / 图片-文本标注编辑器
